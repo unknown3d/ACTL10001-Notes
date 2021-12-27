@@ -1,0 +1,11 @@
+---
+output:
+    html_document:
+
+---
+I need to figure out how to move latex code into R markdown
+
+
+
+
+
